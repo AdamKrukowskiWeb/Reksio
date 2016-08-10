@@ -6,6 +6,8 @@
 *.exe
 *.o
 *.so
+# Dependency directories
+node_modules
 
 # Packages #
 ############
